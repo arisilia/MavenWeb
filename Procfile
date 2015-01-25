@@ -1,1 +1,1 @@
-web: sh target/bin/MavenWeb
+web: sh target/bin/MavenWeb-1.0-SNAPSHOT.war
