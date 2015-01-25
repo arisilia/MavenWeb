@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* MavenWeb
+web: sh target/bin/MavenWeb
